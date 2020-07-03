@@ -50,4 +50,4 @@ function currentLine (katzDeliLine) {
     return("The line is currently: 1. " + katzDeliLine[0] + ", 2. " + katzDeliLine[1] + ", 3. " + katzDeliLine[2]);
   }
 }
-/*
+*/
